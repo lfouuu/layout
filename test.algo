@@ -1,0 +1,11 @@
+ALGORITHM algorithm_name
+ VAR
+ T1:ARRAY_OF INTEGER[]
+BEGIN
+        
+        read(a);
+        IF (a mood 2= 0) THEN
+            
+        END_IF
+    set_instructions
+END

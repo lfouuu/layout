@@ -1,0 +1,54 @@
+.docplanner_header{
+    display: flex; 
+    justify-content: space-between; 
+  padding: 10px 0;
+}
+    
+    body{
+        color: #252525; 
+        font-family: sans-serif;
+    }
+        
+    a{
+        color: #252525; 
+        text-decoration: none;
+
+    }
+
+a:visited{
+    color: #252525;
+}
+
+.azer{
+    color: #5dc6b0;
+}
+
+.introduction-logo{
+    width: 50px; 
+    height: 50px;
+    
+}
+
+    .introduction-title{
+        color: #5dc6b0;
+    }
+    
+
+.introduction{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    
+}
+
+.introduction-text{
+    display: flex;
+}
+.services{
+    display: flex;
+color : #515151;
+}
+
+
+ 
+
